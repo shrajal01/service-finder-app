@@ -39,7 +39,7 @@
 
 Built entirely in a **single `main.dart` file** using **zero external packages** — powered only by the Flutter SDK and Material Design 3.
 
-> 💡 **Note on GitHub language stats:** GitHub shows C++, CMake, and Swift alongside Dart because Flutter auto-generates platform-specific files for Android, iOS, and Windows. These are not written by hand — your actual app logic is **100% Dart**.
+> 
 
 ---
 
@@ -230,8 +230,7 @@ flutter run
 |:------------------------------------:|:-------------------------------------------:|:-------------------------------------:|
 | *![](assets/screenshots/search.png)* | *![](assets/screenshots/fav.png)screenshot* | *![](assets/screenshots/profile.png)* |
 
-> Replace `*screenshot*` with actual images after capturing from your emulator.
-> Drag images into the GitHub repo and reference them here.
+
 
 ---
 
